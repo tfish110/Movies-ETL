@@ -1,6 +1,7 @@
 # Adding additional files to ignore
 credits.csv
 ratings.csv
+config.py
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
