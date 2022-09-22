@@ -5,4 +5,4 @@ Throughout this module, we learned to clean up messy or complicated datasets thr
 
 ## Resources
     - Data: movies_metadata.csv, ratings.csv, wikipedia-movies.json
-    - Software: Python 3.7.13, Anaconda command line client 1.9.0, Conda 4.13.0, Jupyter Notebook 6.4.8, Pandas 1.3.5, NumPy 1.21.5, pgAdmin4 6.12, PostgreSQL 11.17, SQLAlchemy 1.4.32, psycopg2 2.9.3
+    - Software: Python 3.7.13, Anaconda command line client 1.9.0, Conda 4.13.0, Jupyter Notebook 6.4.8, Pandas 1.3.5, NumPy 1.21.5, pgAdmin4 6.12, PostgreSQL 11.17,           SQLAlchemy 1.4.32, psycopg2 2.9.3
